@@ -1,4 +1,7 @@
 
+NOTE: THIS IS ONLY AN EXPERIMENT
+Please don't use it
+
 # Simple Steps to Create Project
 1. virtualenv myenv
 2. . myenv/bin/activate #source 3. myenv/bin/activate
